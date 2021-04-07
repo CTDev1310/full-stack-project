@@ -1,0 +1,12 @@
+npm init -y: create package.json
+yarn add -D @types/node typescript: create yarn.lock 
+yarn add -D ts-node: 
+npx tsconfig.json
+yarn add -D nodemon: install nodemon
+yarn add @mikro-orm/cli @mikro-orm/core @mikro-orm/migrations: install mikro orm
+yarn add @mikro-orm/postgresql pg: install env mikroorm
+npx micro-orm migration:create --> create migration
+yarn add express apollo-server-express graphql type-graphql
+yarn add -D @types/express: Dependencies of typescript express
+yarn add argon2: hash method for password
+yarn add -D @types/redis @types/express-session @types/connect-redis
